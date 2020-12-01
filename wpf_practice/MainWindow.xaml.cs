@@ -24,5 +24,10 @@ namespace wpf_practice
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("なぜ押したし");
+        }
     }
 }

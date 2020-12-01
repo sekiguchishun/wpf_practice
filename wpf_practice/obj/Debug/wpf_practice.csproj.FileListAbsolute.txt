@@ -1,0 +1,16 @@
+D:\Work\wpf_practice\wpf_practice\bin\Debug\wpf_practice.exe.config
+D:\Work\wpf_practice\wpf_practice\bin\Debug\wpf_practice.exe
+D:\Work\wpf_practice\wpf_practice\bin\Debug\wpf_practice.pdb
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.csprojAssemblyReference.cache
+D:\Work\wpf_practice\wpf_practice\obj\Debug\MainWindow.g.cs
+D:\Work\wpf_practice\wpf_practice\obj\Debug\App.g.cs
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice_MarkupCompile.cache
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice_MarkupCompile.lref
+D:\Work\wpf_practice\wpf_practice\obj\Debug\MainWindow.baml
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.g.resources
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.Properties.Resources.resources
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.csproj.GenerateResource.cache
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.exe
+D:\Work\wpf_practice\wpf_practice\obj\Debug\wpf_practice.pdb
+D:\Work\wpf_practice\wpf_practice\obj\Debug\clock.g.cs
+D:\Work\wpf_practice\wpf_practice\obj\Debug\clock.baml
